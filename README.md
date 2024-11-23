@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kayou
-- 👀 I’m interested in developement and cybersecurity
+- 👀 I’m interested in developement
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me : On Discord 
