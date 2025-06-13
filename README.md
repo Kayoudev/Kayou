@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kayou
-- 👀 I’m interested in developement
+- 👀 I’m interested everything
 - 🌱 I’m currently learning java, javascript and swift
 - 💞️ I’m looking to collaborate on nothing for the moment
-- 📫 How to reach me : On Discord 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a stone ;)
 
