@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a stone ;)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayoudev&show_icons=true&theme=onedark)
-
 <!---
 Kayoupi/Kayoupi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
