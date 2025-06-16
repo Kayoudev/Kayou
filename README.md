@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a stone ;)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?Kayoudev=Kayoudev&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayoudev&show_icons=true&theme=onedark)
 
 <!---
 Kayoupi/Kayoupi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
