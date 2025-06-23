@@ -14,7 +14,9 @@
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="40" height="40"/> </a>
+<a href="https://sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" alt="SQLite" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="Swift" width="40" height="40"/> </a>
 
 
 <!---
