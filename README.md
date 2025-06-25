@@ -3,7 +3,6 @@
 
 - 👀 I’m interested everything
 - 🌱 I’m currently learning java, javascript and swift
-- 💞️ I’m looking to collaborate on discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a stone ;)
 
